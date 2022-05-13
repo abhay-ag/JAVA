@@ -11,5 +11,19 @@ public class Main {
             }
             System.out.println();
         }
+        System.out.println();
+        System.out.println();
+        int f = n;
+        for(int i = 0; i <= n; i++){
+            for(int j = 0; j <= n; j++){
+                if(j < f){
+                    System.out.print(" ");
+                }else{
+                    System.out.print("*");
+                }
+            }
+            f--;
+            System.out.println();
+        }
     }
 }
