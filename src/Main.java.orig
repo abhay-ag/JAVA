@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-//<<<<<<< HEAD
-// Pattern 1  change on master
-//=======
+<<<<<<< HEAD
+// Pattern 1
+=======
 // Pattern 2
-//>>>>>>> akash   change on akash byt 1tsak
+>>>>>>> akash
 
 public class Main {
     public static void main(String[] args) {
